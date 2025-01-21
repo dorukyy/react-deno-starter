@@ -1,0 +1,16 @@
+// src/styles/main.scss
+@use 'variables' as *;
+@use '../../node_modules/bootstrap/scss/bootstrap' as bootstrap;
+
+html {
+  height: 100%;
+  width: 100%;
+
+
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background: #242424;
+}
